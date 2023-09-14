@@ -1,4 +1,5 @@
-EmR contains our Epi-reduced Methylation (EmR) sites and genes
+* The EmR folder contains our Epi-reduced Methylation (EmR) sites and genes
+* The cfDNA folder contains cfDNA biomarkers (sites and genes)
 
 To check if a site or a gene is in our EmR:
 1. Download ErM and cfDNA folders (you can use ```git clone https://github.com/moqri/EpiReduced-Methylation.git```)
